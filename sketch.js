@@ -9,5 +9,5 @@ function draw() {
   rotateX(frameCount * 0.1);
   rotateY(mouseY * 0.1);
   fill(0, 0, 0);
-  box(width / 2.5);
+  box(height / 2.5);
 }
